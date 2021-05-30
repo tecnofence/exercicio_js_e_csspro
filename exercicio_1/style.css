@@ -1,0 +1,27 @@
+body {
+    background-color: antiquewhite;
+    
+    margin: auto 0;
+}
+.container{
+    margin-top: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.borda{
+    border: black solid 1px; 
+    margin-left: 10px;
+    background-color: white;
+}
+
+.primeiro, .quarto{
+    width: 200px;
+    text-align: center;
+}
+
+.segundo, .terceiro{
+    width: 50px;
+    text-align: center;
+}
